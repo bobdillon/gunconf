@@ -1,0 +1,5 @@
+sudo cp home/pi/gunconf/utils/aimtrak.rules /etc/udev/rules.d/99-aimtrak.rules
+
+is the full path and command to make sure the gunconf client works in this step.
+
+find . -name DIRNAME -type d is the syntax for finding filepaths.
